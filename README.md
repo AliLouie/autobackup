@@ -22,10 +22,10 @@ Git
   cd resources
   git clone https://github.com/AliLouie/autobackup
 ```
-manually
-Download Resource
-Copy AutoBackup to your resource folder
-Add ensure AutoBackup in your server.cfg
+Manually <br />
+Download Resource <br />
+Copy AutoBackup to your resource folder <br />
+Add ensure AutoBackup in your server.cfg <br />
     
 ## License
 

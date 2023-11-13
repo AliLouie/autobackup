@@ -6,7 +6,7 @@ This is Standalone resource for keep save your database from any accident for lo
 ## Features
 
 - AutoBackup with cron
-- Direct url to download SQL file
+- Direct url to download SQL file : http://IP:3000/download?key=YOURKEY
 - Upload automatically into FTP server
 - Easy to use
 

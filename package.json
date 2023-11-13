@@ -1,0 +1,14 @@
+{
+  "name": "fivem-autobackup",
+  "version": "1.0.0",
+  "description": "Fivem AutoBackup",
+  "author": "AliLouie",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "basic-ftp": "^5.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysqldump": "^3.2.0",
+    "node-cron": "^3.0.3"
+  }
+}

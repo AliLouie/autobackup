@@ -17,10 +17,15 @@ This is Standalone resource for keep save your database from any accident for lo
 
 ## Installation
 
-...
+Git
 ```bash
-  ...
+  cd resources
+  git clone https://github.com/AliLouie/autobackup
 ```
+manually
+Download Resource
+Copy AutoBackup to your resource folder
+Add ensure AutoBackup in your server.cfg
     
 ## License
 
